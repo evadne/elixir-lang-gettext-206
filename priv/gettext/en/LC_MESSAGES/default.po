@@ -1,0 +1,4 @@
+msgid "%{count} item(s)"
+msgid_plural "%{count} item(s)"
+msgstr[0] "%{count} item"
+msgstr[1] "%{count} items"
